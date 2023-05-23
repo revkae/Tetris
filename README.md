@@ -1,5 +1,6 @@
 # Tetris
-It was **one day challange** to test my skills. Making tetris is pretty easy but it was fun. It has crappy menu, crappy end menu, and pretty good sounds I guess.
+It was **one day challange** to test my skills. Making tetris was pretty easy and fun. It has crappy menu, crappy end menu, and pretty good sounds I guess.
+Also, I am not a design guy thats the reason it looks very crappy.
 
 &nbsp;
 > ***Shitty main menu***
